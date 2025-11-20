@@ -78,15 +78,18 @@ module half_subtractor (
 
 endmodule
 ```
-Developed by:MADHU .P   RegisterNumber:25012991
+Developed by:MADHU .P     RegisterNumber:25012991
 
 **RTL Schematic**
+
 **Output/TIMING Waveform**
+
 **Half Adder**
 <img width="1106" height="221" alt="Screenshot 2025-11-20 181950" src="https://github.com/user-attachments/assets/83128d93-71d2-4131-9ef4-0d719bd86776" />
 **Half Subtractor**
 <img width="1111" height="205" alt="Screenshot 2025-11-20 182032" src="https://github.com/user-attachments/assets/b0b20193-9884-42a9-a67d-eeb4d0f231f3" />
 
 **Result:**
+
 Thus the given logic functions are implemented using and their operations are verified using verilog programming.
 
